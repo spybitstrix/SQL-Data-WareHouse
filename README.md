@@ -103,6 +103,14 @@ data-warehouse-project/
 ```
 ---
 
+---
+
+## 🙌 Credits
+
+This project was inspired by and built with guidance from the following resource:
+
+- 📺 [Data Warehouse Project Tutorial](https://youtu.be/9GVqKuTVANE)
+
 
 ## 🛡️ License
 
